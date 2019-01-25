@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--<students   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  			 xmlns="http://www.itcast.cn/xml"
+  		   xsi:schemaLocation="http://www.itcast.cn/xml  student.xsd"
+  		    >-->
+<students>
+    <student number="heima_0001" class="Yi" id="zhang">
+
+        <name>
+            <xing>张</xing>
+        </name>
+        <name>
+            <ming>
+            三
+        </ming>
+        </name>
+        <age>20</age>
+        <sex>male</sex>
+    </student>
+
+    <student number="heima_0002" class="Er" id="li">
+        <name>李四</name>
+        <age>18</age>
+        <sex>female</sex>
+    </student>
+</students>
+<!--</students>-->
